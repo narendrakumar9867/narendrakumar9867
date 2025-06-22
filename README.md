@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Python, JavaScript, Nodejs, Expressjs, Nextjs, RESTful API, Flask, MongoDB, PostgreSQL<br>👨‍💻 Portfolio: https://narendrakumarkumawat.netlify.app/<br>
+🔭 I’m currently working on Python, JavaScript, Nodejs, Expressjs, Nextjs, RESTful API, Flask, MongoDB, PostgreSQL<br>👨‍💻 Portfolio: http://narendrakumark.netlify.app//<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/narendrakumar-kumawat-474647257/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/narendra9867043) 
