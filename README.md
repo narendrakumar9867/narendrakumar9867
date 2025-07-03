@@ -5,17 +5,14 @@
 <h1 align="center">Hi, I'm Narendrakumar Kumawat👋 &nbsp;Welcome to my GitHub</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/in/narendrakumar-kumawat-474647257/">
+  <a href="https://www.linkedin.com/in/narendrakumar-kumawat-474647257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="https://x.com/https://twitter.com/narendra9867043">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
+  <a href="https://twitter.com/narendra9867043" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
   </a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iNezerr&style=flat-square&color=blue" alt="Profile Views">
-</div>
 
 ---
 
@@ -62,8 +59,17 @@
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=iNezerr\&theme=highcontrast\&background=000000\&hide_border=true\&include_all_commits=true\&count_private=true) <br/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iNezerr\&theme=highcontrast\&background=000000)](https://git.io/streak-stats) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iNezerr\&layout=compact\&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=narendrakumar9867&theme=highcontrast&background=000000&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=narendrakumar9867&theme=highcontrast&background=000000" alt="GitHub Streak" />
+  </a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narendrakumar9867&layout=compact&theme=highcontrast" alt="Top Languages" />
+  </a>
+</p>
 
 ---
