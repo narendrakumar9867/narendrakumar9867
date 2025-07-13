@@ -20,7 +20,7 @@
 
 🔭 I’m currently working on Python, JavaScript, Nodejs, Expressjs, Nextjs, RESTful API, Flask, MongoDB, PostgreSQL<br>👨‍💻 Portfolio: http://narendrakumark.netlify.app/<br>
 
-* 🔭 Currently: Backend Developer @ Hues Apply, Website Developer @ Vismay Miraj College.
+* 🔭 Past Experience: Full Stack Developer @ Hues Apply, Website Developer @ Vismay Miraj College.
 * ⚙️ Mostly writing Python, but I touch anything needed to get things done.
 * ✊ I believe in staying available and stepping up, even before being asked.
 
